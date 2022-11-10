@@ -1,0 +1,23 @@
+.content_margin_down {
+    margin-bottom:100px;
+}
+
+.content_margin_top{
+    margin-top:100px;
+}
+
+.content_paddin_top-xl {
+    padding-top: 90px;
+}
+
+.content_paddin_top-l {
+    padding-top: 60px;
+}
+
+.content_paddin_bottom-xl {
+    padding-bottom: 90px;
+}
+
+.content_paddin_bottom-l {
+    padding-bottom: 40px;
+}

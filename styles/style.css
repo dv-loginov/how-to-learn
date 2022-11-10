@@ -1,9 +1,12 @@
 @import "page.css";
+@import "header.css";
 @import "description.css";
 @import "digits.css";
 @import "feynman.css";
 @import "kaufman.css";
 @import "footer.css";
+
+@import "logo.css";
 
 
 
