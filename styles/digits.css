@@ -11,6 +11,7 @@
     font-size: 60px;
     font-weight: 600;
     line-height: 1.15;
+    z-index: 2;
 }
 
 .section-subtitle {
@@ -20,6 +21,7 @@
     font-size: 24px;
     font-weight: normal;
     line-height: 34px;
+    z-index: 2;
 }
 
 .table {
@@ -27,13 +29,14 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    z-index: 2;
 }
 
-.table__cell {
+/* .table__cell {
+} */
+
+.table__cell_theme_light {
     width: 250px;
-}
-
-.table__cell_indent_top {
     margin-top: 60px;
 }
 
@@ -59,6 +62,6 @@
     margin: 100px 0;
 }
 
-.digits_indent_down {
+.section_indent_down {
     margin-bottom: 20px;
 }
