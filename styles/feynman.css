@@ -10,7 +10,7 @@
 
 .feynman__title {
     width: 648px;
-    text-align: center; 
+    text-align: center;
     margin: 0 auto;
     font-size: 120px;
     font-weight: 600;
@@ -25,7 +25,7 @@
     margin: 0;
 }
 
-.feynman__subtitle_indent_up{
+.feynman__subtitle_indent_up {
     margin-top: 70px;
 }
 
