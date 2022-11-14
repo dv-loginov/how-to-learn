@@ -4,6 +4,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    overflow: hidden;
 }
 
 .section__title_theme_dark,
@@ -24,9 +25,9 @@
 
 .kaufman__triangle {
     position: absolute;
-    overflow: hidden;
     top: 0;
     right: -210px;
+    width: 848px;
 }
 
 .kaufman_indent_up-down {
