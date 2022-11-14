@@ -47,7 +47,12 @@
     line-height: 30px;
     font-size: 18px;
     font-weight: 600;
-    list-style-type: none;   
+}
+
+.footer__column-links {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
 .footer__column-link {
@@ -55,15 +60,11 @@
     line-height: 30px;
     font-size: 18px;
     font-weight: normal;
-    color:#fff;
+    color: #fff;
 }
 
-.footer__column-heading li:first-child {
-    margin-top: 20px;
-}
-
-.footer__column-heading li:last-child {
-    margin-bottom: 18px;
+.footer__column-link_indent_up_down {
+    margin: 20px 0 18px 0;
 }
 
 .footer__column_content_social {
