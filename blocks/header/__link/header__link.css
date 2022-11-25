@@ -1,0 +1,12 @@
+.header__link {
+    color: #2f80ed;
+    text-decoration: none;
+    position: relative;
+}
+
+.header__link::after {
+    content: "⟶";
+    position: absolute;
+    top: 0;
+    left: 58px;
+}
