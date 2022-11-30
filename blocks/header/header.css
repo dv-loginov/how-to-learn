@@ -9,4 +9,5 @@
     background-color: #f2f2f2;
     padding-left: 64px;
     z-index: 1;
+    overflow: hidden;
 }
